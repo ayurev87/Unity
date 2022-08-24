@@ -16,3 +16,7 @@ foreach (int i in array)
 {
     Console.WriteLine(i);
 }
+void Sort(int[] col)
+{
+
+}
